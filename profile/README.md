@@ -1,4 +1,4 @@
-# Gradiant Network Development Organization
+# Sync Network Development Organization
 
 Bienvenido a la organización de GitHub dedicada al desarrollo de plugins para PocketMine-MP, la plataforma de servidor de Minecraft Pocket Edition. Aquí encontrarás recursos, herramientas y colaboradores para crear plugins increíbles.
 
@@ -12,7 +12,7 @@ Somos una comunidad de desarrolladores apasionados por Minecraft Pocket Edition 
 
 Echa un vistazo a nuestros repositorios principales:
 
-- [HCF](https://github.com/GradiantNet/First-Proyect): Un complemento para implementar la modalidad de HardCoreFactions sencillo para PocketMine-MP.
+- [HCF](https://github.com/SyncMCBE/First-Proyect): Un complemento para implementar la modalidad de HardCoreFactions sencillo para PocketMine-MP.
 
 ### Comunidad
 
