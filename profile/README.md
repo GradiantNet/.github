@@ -1,6 +1,6 @@
 # Sync Network Development Organization
 
-Bienvenido a la organización de GitHub dedicada al desarrollo de plugins para PocketMine-MP, la plataforma de servidor de Minecraft Pocket Edition. Aquí encontrarás recursos, herramientas y colaboradores para crear plugins increíbles.
+Bienvenido a la organización de GitHub dedicada al desarrollo de plugins para PocketMine-MP, la plataforma de servidor de Minecraft Pocket Edition y tambien desarrollo de complementos en diferentes lenguajes como: JavaScript, CSS, PHP, HTML. Aquí encontrarás recursos, herramientas y colaboradores para crear plug-ins increíbles.
 
 ## ¿Quiénes somos?
 
